@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  SortingAlgorithms.cpp
+c:\users\user\source\repos\sortingalgorithms\sortingalgorithms\sortingalgorithms.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ISortAlg.cpp
+  SelectionSort.cpp
+  QuickSort.cpp
+  MergeSort.cpp
+  Insertion.cpp
+  HeapSort.cpp
+  BubbleSort.cpp
+  Generating Code...
+  SortingAlgorithms.vcxproj -> C:\Users\User\source\repos\SortingAlgorithms\x64\Debug\SortingAlgorithms.exe
+  SortingAlgorithms.vcxproj -> C:\Users\User\source\repos\SortingAlgorithms\x64\Debug\SortingAlgorithms.pdb (Partial PDB)

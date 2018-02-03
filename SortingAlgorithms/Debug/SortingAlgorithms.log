@@ -1,0 +1,4 @@
+﻿  QuickSort.cpp
+c:\users\user\source\repos\sortingalgorithms\sortingalgorithms\algorithms\quicksort\quicksort.cpp(14): warning C4101: 'tmp': unreferenced local variable
+  SortingAlgorithms.vcxproj -> C:\Users\User\source\repos\SortingAlgorithms\Debug\SortingAlgorithms.exe
+  SortingAlgorithms.vcxproj -> C:\Users\User\source\repos\SortingAlgorithms\Debug\SortingAlgorithms.pdb (Partial PDB)

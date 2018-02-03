@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  BubbleSort.cpp
+Algorithms\BubbleSort\BubbleSort.cpp(31): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  HeapSort.cpp
+Algorithms\HeapSort\HeapSort.cpp(65): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Insertion.cpp
+Algorithms\InsertionSort\Insertion.cpp(28): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  MergeSort.cpp
+Algorithms\MergeSort\MergeSort.cpp(72): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  QuickSort.cpp
+Algorithms\QuickSort\QuickSort.cpp(55): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  SelectionSort.cpp
+Algorithms\SelectionSort\SelectionSort.cpp(35): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  SortAlg.cpp
+Algorithms\ISortAlg\SortAlg.cpp(30): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  SortingAlgorithms.cpp
+SortingAlgorithms.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
